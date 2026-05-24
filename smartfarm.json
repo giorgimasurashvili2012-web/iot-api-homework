@@ -1,0 +1,6 @@
+{
+"device":"Farm Sensor",
+"soilMoisture":44,
+"isPumpActive":false,
+"zones":["A1","A2","B1"]
+}
