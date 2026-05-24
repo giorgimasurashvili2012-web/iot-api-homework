@@ -1,0 +1,6 @@
+{
+  "device": "Smart Water Bottle",
+  "waterLevel": 78,
+  "isReminderOn": true,
+  "alerts": ["10:00", "14:00", "18:00"]
+}
