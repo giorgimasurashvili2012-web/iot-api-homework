@@ -1,0 +1,6 @@
+{
+"device":"Pet Tracker",
+"battery":67,
+"isNearby":true,
+"locations":["Home","Park"]
+}
